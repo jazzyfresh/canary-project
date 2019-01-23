@@ -23,7 +23,7 @@ that can help companies identify and remedy toxic culture.
 
 ### The Canary Project is not
 A one-size-fits all solution. Actually, that's kind of the point:
-we have a diverse world, and thus a diverse set of experiences and challenges.
+we live in a diverse world and have diverse experiences and challenges.
 This project was made from the point of view of the contributors who built it,
 but it is lacking many other perspectives. We hope this project is extensible enough
 to be a working foundation that anyone can use to identify and overcome challenges
