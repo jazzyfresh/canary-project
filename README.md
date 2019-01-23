@@ -1,9 +1,7 @@
-# canary-project
+# The Canary Project
 canary testing for company culture
 
 ```
-                         
-                         
  ___ ___ ___ ___ ___ _ _ 
 |  _| .'|   | .'|  _| | |
 |___|__,|_|_|__,|_| |_  |
@@ -23,8 +21,8 @@ Currently, it is just a collection of READMEs,
 but in the long-term, we are hoping to build real software
 that can help companies identify and remedy toxic culture.
 
-### The Canary Project is not:
-- a one-size-fits all solution. Actually, that's kind of the point:
+### The Canary Project is not
+A one-size-fits all solution. Actually, that's kind of the point:
 we have a diverse world, and thus a diverse set of experiences and challenges.
 This project was made from the point of view of the contributors who built it,
 but it is lacking many other perspectives. We hope this project is extensible enough
